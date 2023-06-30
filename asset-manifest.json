@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Aymen-Khanfir/Calculator-App/static/css/main.4ee91bd1.css",
-    "main.js": "/Aymen-Khanfir/Calculator-App/static/js/main.c7a602b5.js",
-    "index.html": "/Aymen-Khanfir/Calculator-App/index.html",
-    "main.4ee91bd1.css.map": "/Aymen-Khanfir/Calculator-App/static/css/main.4ee91bd1.css.map",
-    "main.c7a602b5.js.map": "/Aymen-Khanfir/Calculator-App/static/js/main.c7a602b5.js.map"
+    "main.css": "/Calculator-App/static/css/main.4ee91bd1.css",
+    "main.js": "/Calculator-App/static/js/main.c7a602b5.js",
+    "index.html": "/Calculator-App/index.html",
+    "main.4ee91bd1.css.map": "/Calculator-App/static/css/main.4ee91bd1.css.map",
+    "main.c7a602b5.js.map": "/Calculator-App/static/js/main.c7a602b5.js.map"
   },
   "entrypoints": [
     "static/css/main.4ee91bd1.css",
