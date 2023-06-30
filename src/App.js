@@ -72,7 +72,7 @@ function App() {
         <button onClick={resetInput}>resetInput</button>
         
         <button onClick={resetResult}>resetResult</button>
-      </form> 
+      </form>
     </div> 
   ); 
 } 
